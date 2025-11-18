@@ -7,10 +7,10 @@ public class Driver {
 	 
 	 System.out.println("Simple Calculator");
      System.out.print("Enter first number: ");
-     double a = sc.nextDouble();
+     int a = sc.nextInt();
 
      System.out.print("Enter second number: ");
-     double b = sc.nextDouble();
+     int  b = sc.nextInt();
 
      System.out.println("Choose operation (+, -, *, /): ");
      char operation = sc.next().charAt(0);
