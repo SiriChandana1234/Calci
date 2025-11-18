@@ -4,8 +4,9 @@ public class CalciImplementation  implements Calc{
 
 	@Override
 	public int add(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+		// Addition features
+		
+		return a+b;
 	}
 
 	@Override
