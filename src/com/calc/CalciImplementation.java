@@ -11,8 +11,9 @@ public class CalciImplementation  implements Calc{
 
 	@Override
 	public double sub(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+// subtracted
+		int c=a-b;
+		return c;
 	}
 
 	@Override
