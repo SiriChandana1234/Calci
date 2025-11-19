@@ -18,8 +18,7 @@ public class CalciImplementation  implements Calc{
 
 	@Override
 	public int mul(int a, int b) {
-		// TODO Auto-generated method stub
-		return 0;
+		return a*b;
 	}
 
 	@Override
